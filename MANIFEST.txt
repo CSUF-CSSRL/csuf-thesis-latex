@@ -1,0 +1,19 @@
+
+Files that constitute this work:
+
+appendix-1-Misc.tex
+chapter-1-Introduction.tex
+chapter-2-Previous_Work.tex
+chapter-3-Methodology.tex
+chapter-4-Experimental_Results.tex
+chapter-5-Conclusion.tex
+Makefile
+preliminary-Abstract.tex
+preliminary-Acknowledgement.tex
+preliminary-Curriculum_Vitae.tex
+preliminary-Dedications.tex
+thesis_bibliography.bib
+YourName_ThesisMaster.tex
+images/flies.pdf
+images/fly.pdf
+images/rosette.pdf
